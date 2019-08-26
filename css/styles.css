@@ -1,11 +1,15 @@
 body {
-    color:rgba(15, 14, 14, 0.89);
+    color:white;
 }
 .container {
     text-align: center;
     height:500px;
     background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
     vertical-align: text-top;
+}
+.about {
+    background-color: rgba(163, 187, 207, 0.493);
+    color: black;
 }
 .content {
     height:200px;
@@ -19,4 +23,9 @@ p {
 }
 h5 {
     text-align: center;
+}
+.details {
+    color:black;
+    height:200px;
+    align-content: space-between;
 }
