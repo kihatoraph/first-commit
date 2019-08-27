@@ -1,11 +1,13 @@
 body {
     background-color: gray;
 }
-.container {
+.container1 {
+    padding-top: 100px;
     text-align: center;
     height:500px;
     background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
     vertical-align: text-top;
+}
 }
 .about {
     background-color: rgba(163, 187, 207, 0.493);
